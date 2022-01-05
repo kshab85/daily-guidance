@@ -1,7 +1,7 @@
 {
-  "main.css": "/daily-guidance/static/css/main.5d9ff473.chunk.css",
-  "main.js": "/daily-guidance/static/js/main.ce4a081d.chunk.js",
-  "main.js.map": "/daily-guidance/static/js/main.ce4a081d.chunk.js.map",
+  "main.css": "/daily-guidance/static/css/main.4b20781c.chunk.css",
+  "main.js": "/daily-guidance/static/js/main.2c0b48f6.chunk.js",
+  "main.js.map": "/daily-guidance/static/js/main.2c0b48f6.chunk.js.map",
   "static/js/1.6d4bcd68.chunk.js": "/daily-guidance/static/js/1.6d4bcd68.chunk.js",
   "static/js/1.6d4bcd68.chunk.js.map": "/daily-guidance/static/js/1.6d4bcd68.chunk.js.map",
   "static/js/2.d3019479.chunk.js": "/daily-guidance/static/js/2.d3019479.chunk.js",
@@ -10,8 +10,8 @@
   "runtime~main.js.map": "/daily-guidance/static/js/runtime~main.7f838ae7.js.map",
   "static/media/guidance.png": "/daily-guidance/static/media/guidance.39c6235c.png",
   "static/media/Header.css": "/daily-guidance/static/media/sun.41c75c64.png",
-  "static/css/main.5d9ff473.chunk.css.map": "/daily-guidance/static/css/main.5d9ff473.chunk.css.map",
+  "static/css/main.4b20781c.chunk.css.map": "/daily-guidance/static/css/main.4b20781c.chunk.css.map",
   "index.html": "/daily-guidance/index.html",
-  "precache-manifest.6a605769d5dacc9e41b6e0404708034a.js": "/daily-guidance/precache-manifest.6a605769d5dacc9e41b6e0404708034a.js",
+  "precache-manifest.33ea659c4bbcf03dd4727ad21b75c60e.js": "/daily-guidance/precache-manifest.33ea659c4bbcf03dd4727ad21b75c60e.js",
   "service-worker.js": "/daily-guidance/service-worker.js"
 }
