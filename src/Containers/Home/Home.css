@@ -38,3 +38,23 @@ letter-spacing: 0;
 width: 353px;
 
 }
+
+@media only screen and (max-width: 600px) {
+  .container {
+    margin: 33px;
+    top: 21px;
+    }
+
+
+    .centered {
+      top: 50%;
+      left: 50%;
+      font-size: 24px;
+      width: 100px;
+      }
+
+      .adaviceImg {
+        width: 300px;
+        height: 400px;
+    }
+}
