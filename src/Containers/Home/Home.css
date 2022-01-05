@@ -1,0 +1,40 @@
+.adaviceImg{
+    width: 530px;
+height: 651px;
+}
+
+.container {
+position: relative;
+text-align: center;
+color: white;
+margin: 60px;
+}
+
+
+
+.centered {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+  font-family: Abel;
+text-align: center;
+font-size: 48px;
+letter-spacing: 0;
+    color: rgba(255, 255, 255, 1);
+width: 353px;
+}
+.centeredDate{
+color: black;
+top: -3%;
+font-size: 23px;
+left: 50%;
+position: absolute;
+  transform: translate(-50%, -50%);
+  font-family: Abel;
+text-align: center;
+font-size: 25px;
+letter-spacing: 0;
+width: 353px;
+
+}

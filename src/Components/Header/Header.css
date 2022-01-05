@@ -1,0 +1,30 @@
+.header {
+padding: 11px;
+text-align: center;
+background-color: #FFC3DF;
+height: 134px;
+}
+.header span.span1{
+    display: inline-block;
+vertical-align: middle;
+line-height: normal;
+color: rgba(195.0000035762787, 255, 227.00000166893005, 1);
+font-family: 'Luxurious Roman', cursive;
+text-align: center;
+font-size: 50px;
+letter-spacing: 0;
+}
+
+.logoicon { 
+display: inline-block;
+vertical-align: middle;
+line-height: normal;
+width:30px;
+height:30px;
+position:absolute;
+/*	left:439px;*/
+top:47px;
+background-image:url(../../Assets/images/sun.png);
+background-repeat:no-repeat;
+background-size:cover;
+}
